@@ -2,7 +2,7 @@
 package password
 
 import (
-	"goblog/pkg/logger"
+	"blog/pkg/logger"
 
 	"golang.org/x/crypto/bcrypt"
 )

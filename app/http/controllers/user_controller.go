@@ -2,11 +2,11 @@ package controllers
 
 import (
 	"fmt"
-	"goblog/app/models/article"
-	"goblog/app/models/user"
-	"goblog/pkg/logger"
-	"goblog/pkg/route"
-	"goblog/pkg/view"
+	"blog/app/models/article"
+	"blog/app/models/user"
+	"blog/pkg/logger"
+	"blog/pkg/route"
+	"blog/pkg/view"
 	"net/http"
 )
 

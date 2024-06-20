@@ -1,6 +1,6 @@
 package config
 
-import "goblog/pkg/config"
+import "blog/pkg/config"
 
 func init() {
 	config.Add("pagination", config.StrMap{

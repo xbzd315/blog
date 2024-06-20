@@ -1,9 +1,9 @@
 package user
 
 import (
-	"goblog/pkg/logger"
-	"goblog/pkg/model"
-	"goblog/pkg/types"
+	"blog/pkg/logger"
+	"blog/pkg/model"
+	"blog/pkg/types"
 )
 
 // Create 创建用户，通过 User.ID 来判断是否创建成功

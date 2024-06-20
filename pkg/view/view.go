@@ -3,12 +3,12 @@ package view
 
 import (
 	"embed"
-	"goblog/app/models/category"
-	"goblog/app/models/user"
-	"goblog/pkg/auth"
-	"goblog/pkg/flash"
-	"goblog/pkg/logger"
-	"goblog/pkg/route"
+	"blog/app/models/category"
+	"blog/app/models/user"
+	"blog/pkg/auth"
+	"blog/pkg/flash"
+	"blog/pkg/logger"
+	"blog/pkg/route"
 	"html/template"
 	"io"
 	"io/fs"

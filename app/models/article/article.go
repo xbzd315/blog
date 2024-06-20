@@ -2,9 +2,9 @@
 package article
 
 import (
-	"goblog/app/models"
-	"goblog/app/models/user"
-	"goblog/pkg/route"
+	"blog/app/models"
+	"blog/app/models/user"
+	"blog/pkg/route"
 	"strconv"
 )
 

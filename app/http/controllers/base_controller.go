@@ -2,8 +2,8 @@ package controllers
 
 import (
 	"fmt"
-	"goblog/pkg/flash"
-	"goblog/pkg/logger"
+	"blog/pkg/flash"
+	"blog/pkg/logger"
 	"net/http"
 
 	"gorm.io/gorm"

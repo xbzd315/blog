@@ -2,7 +2,7 @@ package bootstrap
 
 import (
 	"embed"
-	"goblog/pkg/view"
+	"blog/pkg/view"
 )
 
 // SetupTemplate 模板初始化

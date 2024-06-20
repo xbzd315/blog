@@ -1,8 +1,8 @@
 package pagination
 
 import (
-	"goblog/pkg/config"
-	"goblog/pkg/types"
+	"blog/pkg/config"
+	"blog/pkg/types"
 	"math"
 	"net/http"
 	"strconv"

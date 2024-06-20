@@ -2,7 +2,7 @@
 package types
 
 import (
-	"goblog/pkg/logger"
+	"blog/pkg/logger"
 	"strconv"
 )
 

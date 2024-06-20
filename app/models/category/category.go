@@ -2,8 +2,8 @@
 package category
 
 import (
-	"goblog/app/models"
-	"goblog/pkg/route"
+	"blog/app/models"
+	"blog/pkg/route"
 )
 
 // Category 文章分类

@@ -1,9 +1,9 @@
 package category
 
 import (
-	"goblog/pkg/logger"
-	"goblog/pkg/model"
-	"goblog/pkg/types"
+	"blog/pkg/logger"
+	"blog/pkg/model"
+	"blog/pkg/types"
 )
 
 // Create 创建分类，通过 category.ID 来判断是否创建成功

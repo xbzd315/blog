@@ -1,11 +1,11 @@
 package article
 
 import (
-	"goblog/pkg/logger"
-	"goblog/pkg/model"
-	"goblog/pkg/pagination"
-	"goblog/pkg/route"
-	"goblog/pkg/types"
+	"blog/pkg/logger"
+	"blog/pkg/model"
+	"blog/pkg/pagination"
+	"blog/pkg/route"
+	"blog/pkg/types"
 	"net/http"
 )
 

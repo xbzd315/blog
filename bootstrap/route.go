@@ -3,8 +3,8 @@ package bootstrap
 
 import (
 	"embed"
-	"goblog/pkg/route"
-	"goblog/routes"
+	"blog/pkg/route"
+	"blog/routes"
 	"io/fs"
 	"net/http"
 

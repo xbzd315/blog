@@ -12,7 +12,7 @@ type PagesController struct {
 
 // Home 首页
 func (*PagesController) Home(w http.ResponseWriter, r *http.Request) {
-	fmt.Fprint(w, "<h1>Hello, 欢迎来到 goblog！</h1>")
+	fmt.Fprint(w, "<h1>Hello, 欢迎来到 blog</h1>")
 }
 
 // About 关于我们页面

@@ -2,7 +2,7 @@
 package requests
 
 import (
-	"goblog/app/models/user"
+	"blog/app/models/user"
 
 	"github.com/thedevsaddam/govalidator"
 )

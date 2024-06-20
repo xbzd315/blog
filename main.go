@@ -2,11 +2,11 @@ package main
 
 import (
 	"embed"
-	"goblog/app/http/middlewares"
-	"goblog/bootstrap"
-	"goblog/config"
-	c "goblog/pkg/config"
-	"goblog/pkg/logger"
+	"blog/app/http/middlewares"
+	"blog/bootstrap"
+	"blog/config"
+	c "blog/pkg/config"
+	"blog/pkg/logger"
 	"net/http"
 )
 

@@ -10,7 +10,7 @@ import (
 
 func TestAllPages(t *testing.T) {
 
-	baseURL := "http://localhost:3000"
+	baseURL := "http://localhost:8081"
 
 	// 1. 声明加初始化测试数据
 	var tests = []struct {

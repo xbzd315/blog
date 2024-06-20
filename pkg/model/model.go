@@ -3,8 +3,8 @@ package model
 
 import (
 	"fmt"
-	"goblog/pkg/config"
-	"goblog/pkg/logger"
+	"blog/pkg/config"
+	"blog/pkg/logger"
 
 	// GORM 的 MSYQL 数据库驱动导入
 

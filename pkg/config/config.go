@@ -2,7 +2,7 @@
 package config
 
 import (
-	"goblog/pkg/logger"
+	"blog/pkg/logger"
 
 	"github.com/spf13/cast"
 	"github.com/spf13/viper"

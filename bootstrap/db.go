@@ -1,11 +1,11 @@
 package bootstrap
 
 import (
-	"goblog/app/models/article"
-	"goblog/app/models/category"
-	"goblog/app/models/user"
-	"goblog/pkg/config"
-	"goblog/pkg/model"
+	"blog/app/models/article"
+	"blog/app/models/category"
+	"blog/app/models/user"
+	"blog/pkg/config"
+	"blog/pkg/model"
 	"time"
 
 	"gorm.io/gorm"

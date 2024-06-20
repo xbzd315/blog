@@ -3,7 +3,7 @@ package database
 
 import (
 	"database/sql"
-	"goblog/pkg/logger"
+	"blog/pkg/logger"
 	"time"
 
 	"github.com/go-sql-driver/mysql"
@@ -28,7 +28,7 @@ func initDB() {
 		Passwd:               "secret",
 		Addr:                 "127.0.0.1:3306",
 		Net:                  "tcp",
-		DBName:               "goblog",
+		DBName:               "ymh",
 		AllowNativePasswords: true,
 	}
 
