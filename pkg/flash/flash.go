@@ -3,7 +3,7 @@ package flash
 
 import (
 	"encoding/gob"
-	"goblog/pkg/session"
+	"blog/pkg/session"
 )
 
 // Flashes Flash 消息数组类型，用以在会话中存储 map

@@ -22,6 +22,6 @@ func init() {
 		"key": config.Env("APP_KEY", "33446a9dcf9ea060a0a6532b166da32f304af0de"),
 
 		// 用以生成链接
-		"url": config.Env("APP_URL", "http://localhost:8081"),
+		"url": config.Env("APP_URL", "http://60.205.156.105:8081"),
 	})
 }
